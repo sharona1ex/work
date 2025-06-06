@@ -1,4 +1,4 @@
-# Sharon Alexander – Data Scientist
+# Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharona1ex-blue?logo=linkedin)](https://www.linkedin.com/in/sharona1ex/)
 
