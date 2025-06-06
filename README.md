@@ -6,7 +6,7 @@
 
 ## About Me
 
-Your data is a gold mine—and I’m the prospector who knows how to find its hidden treasures. With hands-on experience designing robust data pipelines using cutting-edge tools like PySpark, Alteryx, and SQL, I transform raw information into actionable insights. I specialize in analyzing and visualizing data with Python, Tableau, and Power BI, making complex patterns clear and compelling. My expertise extends to building machine learning models for churn prediction, forecasting, computer vision, and leveraging large language models (LLMs) to solve intricate business challenges. Whether it’s streamlining workflows or unearthing insights that drive strategic decisions, I deliver gold-standard solutions that create real value for organizations
+Your data is a gold mine—and I’m the prospector who knows how to find its hidden treasures. With hands-on experience designing robust data pipelines using cutting-edge tools like PySpark, Alteryx, and SQL, I transform raw information into actionable insights. I specialize in analyzing and visualizing data with Python, Tableau, and Power BI, making complex patterns clear and compelling. My expertise extends to building machine learning models for churn prediction, forecasting, computer vision, and leveraging large language models (LLMs) to solve intricate business challenges. Whether it’s streamlining workflows or unearthing insights that drive strategic decisions, I deliver gold-standard solutions that create real value for organizations.
 
 ---
 
